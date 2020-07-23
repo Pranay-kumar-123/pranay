@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/Pranay-kumar-123/pranay#readme",
   "dependencies": {
-    "emoji-random": "^0.1.2",
     "express": "^4.17.1"
   }
 }
